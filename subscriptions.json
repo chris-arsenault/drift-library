@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "projects": {
+    "svap": {
+      "exclude": [
+        "012-zustand-stores-for-canonry-state",
+        "010-error-boundaries-at-mfe-entry-points",
+        "008-bulk-operation-shell-pattern"
+      ]
+    }
+  }
+}

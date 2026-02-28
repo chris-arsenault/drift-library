@@ -8,7 +8,7 @@
  * 3. Deprecated method definitions that should have been removed
  */
 
-module.exports = {
+export default {
   meta: {
     type: 'problem',
     docs: {
