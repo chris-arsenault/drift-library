@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "artifacts": [
+    {
+      "id": "max-jsx-props",
+      "type": "eslint-rule",
+      "filename": "max-jsx-props.js",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:1fc21324faf5fa6e68f2e1d8f84c5c481459177c4fcc3629f67a87d143902241",
+      "path": "rules/eslint/max-jsx-props.js"
+    },
+    {
+      "id": "no-escape-hatches",
+      "type": "eslint-rule",
+      "filename": "no-escape-hatches.js",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:2b8e7cd892fee500b2def867f79ceb795d9fb7abd99f5256ff315ed2ff3223a9",
+      "path": "rules/eslint/no-escape-hatches.js"
+    },
+    {
+      "id": "no-inline-styles",
+      "type": "eslint-rule",
+      "filename": "no-inline-styles.js",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:61e69ba9c8a5ec5d0f929282436188f572dfbb4b96febb1397b22945a1f01ed7",
+      "path": "rules/eslint/no-inline-styles.js"
+    },
+    {
+      "id": "001-max-jsx-props-eslint-rule",
+      "type": "adr",
+      "filename": "001-max-jsx-props-eslint-rule.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:d9ac96091e54f385cb920b1854de61e3001b5f465ff073249755cd3273c92734",
+      "path": "adr/001-max-jsx-props-eslint-rule.md"
+    },
+    {
+      "id": "002-store-first-data-access",
+      "type": "adr",
+      "filename": "002-store-first-data-access.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:a157c9783875c5fa51699a0fad08f13df7b2bf22afe25ac38b3f22c59e5f046e",
+      "path": "adr/002-store-first-data-access.md"
+    },
+    {
+      "id": "003-grouped-flow-objects",
+      "type": "adr",
+      "filename": "003-grouped-flow-objects.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:c541cd3a6483b66dc671bb9624d35a7c76c2dafa608a28e3258f303558929fc3",
+      "path": "adr/003-grouped-flow-objects.md"
+    },
+    {
+      "id": "004-css-architecture",
+      "type": "adr",
+      "filename": "004-css-architecture.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:4c952f918fbd00cbe94f657f2318e3c292cdc28643c9cdcc833f79cee5ffa2a2",
+      "path": "adr/004-css-architecture.md"
+    },
+    {
+      "id": "005-dependency-version-alignment",
+      "type": "adr",
+      "filename": "005-dependency-version-alignment.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:b73c5611d2aa6e3ca40b24188363f1a62e6e919052d19c64f37143900c80f16e",
+      "path": "adr/005-dependency-version-alignment.md"
+    },
+    {
+      "id": "006-shared-hook-and-image-store-api",
+      "type": "adr",
+      "filename": "006-shared-hook-and-image-store-api.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:92aedb741d73a8eca14753dc662e9f979b18e0f03a16a5d82cecade85e531569",
+      "path": "adr/006-shared-hook-and-image-store-api.md"
+    },
+    {
+      "id": "007-modal-shell-unification",
+      "type": "adr",
+      "filename": "007-modal-shell-unification.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:24da2f798687499c7b87e9129ef949c6ee9f5fa1961de2e4b8d84b3a8df0a01b",
+      "path": "adr/007-modal-shell-unification.md"
+    },
+    {
+      "id": "008-bulk-operation-shell-pattern",
+      "type": "adr",
+      "filename": "008-bulk-operation-shell-pattern.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:fee2671b65b06451d0f2a50b52df2fbe522cc9c288e3c956615bdf47181cacb2",
+      "path": "adr/008-bulk-operation-shell-pattern.md"
+    },
+    {
+      "id": "009-css-architecture-no-inline-styles",
+      "type": "adr",
+      "filename": "009-css-architecture-no-inline-styles.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:ea7ba9db0d691c51761828cf5c2bf32c6b415676db22aba371fb11650ce3c828",
+      "path": "adr/009-css-architecture-no-inline-styles.md"
+    },
+    {
+      "id": "010-error-boundaries-at-mfe-entry-points",
+      "type": "adr",
+      "filename": "010-error-boundaries-at-mfe-entry-points.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:53d81a2d437d673cb59be1e901844614c39e19e4ba0034a4bb8d9f1e591778bd",
+      "path": "adr/010-error-boundaries-at-mfe-entry-points.md"
+    },
+    {
+      "id": "011-shared-component-adoption",
+      "type": "adr",
+      "filename": "011-shared-component-adoption.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:756900222978f856eaff1df1dc76933a2f81a9ce87fe9f361ba54fe8f758509a",
+      "path": "adr/011-shared-component-adoption.md"
+    },
+    {
+      "id": "012-zustand-stores-for-canonry-state",
+      "type": "adr",
+      "filename": "012-zustand-stores-for-canonry-state.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:c4e0f8792a2e0f45d4c134d6cf677fd0f2ed20f901af40d358ffc41c3e31feac",
+      "path": "adr/012-zustand-stores-for-canonry-state.md"
+    },
+    {
+      "id": "css-architecture",
+      "type": "pattern",
+      "filename": "css-architecture.md",
+      "source_project": "the-canonry",
+      "created": "2026-02-28",
+      "updated": "2026-02-28",
+      "description": "",
+      "checksum": "sha256:12e26aedaeaa4cc8c043b65a33ab1c66f1cb1b18c3d6c0ba08784a0e7e7f6880",
+      "path": "patterns/css-architecture.md"
+    }
+  ]
+}
